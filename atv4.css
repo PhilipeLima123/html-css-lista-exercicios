@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+
+.img{
+    background-image: url(https://www.viajali.com.br/wp-content/uploads/2018/02/boa-viagem-pe-1-730x547.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.6;
+    height: 700px;
+    width: 100%;
+}
+
+h2{
+    font-weight: bold;
+    font-size: 30px;
+}
+
+p{
+    color: black;
+    font-weight: bold;
+}
+
+#div2{
+    position: absolute;
+    text-align: justify;
+    float: right;
+    margin-left: 75%;
+    top: 70px;
+}

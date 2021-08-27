@@ -1,0 +1,31 @@
+p{
+    color: blue;
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 14px;
+    margin: 0;
+    padding: 0;
+}
+div{
+    border-style: solid;
+    border-color: black;
+    background-color: black;
+}
+table, tr, td, th{
+    width: 300px;
+    text-align: center;
+    border-color: black;
+    border-style: solid;
+}
+
+.cor1{
+background-color: darkgray;
+}
+
+.cor2{
+    color:green ;
+}
+
+.cor3{
+    color: red;
+}

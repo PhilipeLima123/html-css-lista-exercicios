@@ -1,0 +1,20 @@
+p{
+    color: rgb(146, 4, 4);
+}
+
+#h1{
+    font-style: italic;
+    text-align: center;
+}
+
+body{
+    background-color: #e0ffff;
+}
+
+p>a{
+    text-decoration: none;
+}
+
+p::first-letter{
+    text-decoration: uppercase;
+}
